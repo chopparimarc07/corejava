@@ -7,7 +7,7 @@ public class Concat {
 		String s2="kohli";
 		String s3=s1.concat(s2);
 		System.out.println(s3);
-
+		System.out.println("hai");
 	}
 
 }
